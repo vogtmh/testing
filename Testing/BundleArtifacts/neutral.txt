@@ -1,0 +1,5 @@
+MainPackage=C:\Users\vogtm\source\repos\Testing\Testing\bin\Release\Testing_2025.1.1.0_AnyCPU.appx
+ResourcePack=C:\Users\vogtm\source\repos\Testing\Testing\bin\Release\Testing_2025.1.1.0_scale-100.appx
+ResourcePack=C:\Users\vogtm\source\repos\Testing\Testing\bin\Release\Testing_2025.1.1.0_scale-125.appx
+ResourcePack=C:\Users\vogtm\source\repos\Testing\Testing\bin\Release\Testing_2025.1.1.0_scale-150.appx
+ResourcePack=C:\Users\vogtm\source\repos\Testing\Testing\bin\Release\Testing_2025.1.1.0_scale-400.appx
